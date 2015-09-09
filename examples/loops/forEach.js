@@ -1,3 +1,5 @@
+// Array have a method called forEach()
+
 var a = ["a", "b", "c"];
  
 a.forEach(function(entry) { 
