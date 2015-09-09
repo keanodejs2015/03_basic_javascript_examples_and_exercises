@@ -8,7 +8,7 @@ arr.push('Svend'); // Svend at the end
 
 console.log(arr);
 
-arr[10] = 'Thea'; // in between ar still undefined
+arr[10] = 'Thea'; // in between are still undefined
 
 console.log(arr);
 
